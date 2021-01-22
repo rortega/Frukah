@@ -10,7 +10,7 @@ To start using:
 1. Open a virtiual device in Android - Make sure Frida Server is running
 2. Open the app (e.g., DIVA) you want to Hook/Frukah into
 3. In Command line enter "$python3 frukah.py"
-4. In Frukah enter the App name. Such as for DIVA it will be "jakhar.aseem.diva" or click on "Show Avail Apps" to see loaded applications
+4. In Frukah enter the App name, such as for DIVA it will be "jakhar.aseem.diva" or click on "Show Avail Apps" to see loaded applications
 5. Click on "Hook App"
 6. Select modules/classes you want to Hook/Frukah such as Database, File Access, Shared Preferences, and HTTP
 
