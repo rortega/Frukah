@@ -31,7 +31,7 @@ def thread_command(script):
 script_0 = None;
 
 def load_script(script):
-    print("Script loaded")
+    print("Script loaded..")
     jscode = JSCode()
     process = frida.get_usb_device().attach('jakhar.aseem.diva') # App DIVA used for testing purposes
     script = process.create_script(jscode.getScript(script))
