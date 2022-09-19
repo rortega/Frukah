@@ -28,3 +28,5 @@ This tool does require Frida and PySimpleGui. Go to(https://frida.re/docs/androi
 5. Click on "Hook App"
 6. Start searching for strings in memory then modify the string by providing the correct memory location.
 
+![image](https://github.com/rortega/Frukah/blob/main/Screen%20Shot%202022-09-19%20at%207.59.26%20AM.png)
+
